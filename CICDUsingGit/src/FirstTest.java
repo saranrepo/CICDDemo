@@ -6,6 +6,7 @@ public class FirstTest {
 		System.out.println("made some changes");
 		System.out.println("Running through jenkins POLL SCM");
 		System.out.println("added additional lines");
+		System.out.println("added periodicall build");
 	}
 
 }
